@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/moon.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center top;
+   
+}
+
+.container {
+	max-width: 100%;
+	padding-top: 30px;
+	padding-left: 40px;
+
+
+}
+
+h4 {
+	color: #cce6ff;
+}
+
+.first {
+
+	color: white;
+	font-family: "Times New Roman", Serif;
+}
+
+.calc {
+	color: #cce6ff;
+
+
+}
